@@ -97,3 +97,11 @@ footer {
   font-size: large;
   font-weight: bolder;
 }
+footer .foot {
+  display: flex;
+  gap: 4px;
+  text-align: center;
+}
+.foot i {
+  height: 10px;
+}
