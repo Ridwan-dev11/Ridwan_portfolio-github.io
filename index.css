@@ -99,11 +99,13 @@ footer {
 }
 footer .foot {
   display: flex;
-  gap: 15px;
-  margin-right: 40px;
+  gap: 20px;
+  justify-content: center;
+  
 }
 .foot i {
-  height: 15px;
+  height: 20px;
 }
+
 
 
