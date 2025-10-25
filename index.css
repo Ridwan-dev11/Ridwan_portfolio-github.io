@@ -99,10 +99,11 @@ footer {
 }
 footer .foot {
   display: flex;
-  gap: 10px;
-  justify-content: center;
+  gap: 15px;
+  margin-right: 40px;
 }
 .foot i {
   height: 15px;
 }
+
 
